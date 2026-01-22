@@ -3,123 +3,56 @@ Bio
 ---
 layout: default
 ---
+# Ahmad Aminzadeh, Ph.D.
+### Sr. Laser Welding & Smart Manufacturing Engineer 
+**Specializing in AI-Driven Quality Control & High-Volume Manufacturing**
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Google Scholar](https://scholar.google.com/citations?user=yourid) | [Email](mailto:ahmad.aminzadeh@uwaterloo.ca) | Waterloo, ON
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+## 📖 The Story: Opening the "Black Box" of Manufacturing
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+In high-volume manufacturing, a weld is more than just a joint—it is a promise of structural integrity. For years, that promise was a "black box," verifiable only through destructive testing or delayed lab reports. **My mission is to open that box.**
 
-# Header 1
+By bridging **Materials Science** with **Artificial Intelligence**, I develop systems that "see" what the human eye cannot. From detecting microscopic **LME cracks** for GM to creating **Digital Twins** for Honda’s EV battery busbars, I focus on turning real-time data into a robust, zero-defect production reality.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## 🚀 Technical Project Spotlights
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### 1. Real-Time LME Crack Detection (General Motors)
+* **The Challenge:** Liquid Metal Embrittlement (LME) in galvanized AHSS is a critical safety risk that is notoriously difficult to detect on high-speed lines.
+* **The Solution:** Developed an automated **Machine Vision** system using Deep Learning classifiers to replace manual inspection.
+* **The Result:** Achieved **98% detection accuracy** in real-time, ensuring 100% quality assurance without slowing down the cycle time.
 
-### Header 3
+[Image of machine vision inspection system for weld defect detection]
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### 2. Battery Busbar Digital Twin (Honda R&D)
+* **The Challenge:** Validating the long-term reliability of **Aluminum-Copper** joints under extreme thermal cycling in EV battery packs.
+* **The Solution:** Integrated **Thermomechanical Simulations** with sensor data to create a live Digital Twin that predicts joint fatigue.
+* **The Result:** Reduced the need for destructive testing by **20%** and optimized the laser parameter window for structural integrity.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[Image of thermomechanical simulation of a battery busbar weld]
 
-#### Header 4
+### 3. Laser Process Optimization (ArcelorMittal / NRC)
+* **The Challenge:** Scaling aluminum joining for thermal components from R&D to high-volume manufacturing (HVM).
+* **The Solution:** Executed complex **Design of Experiments (DOE)** to define stable windows for **Conductive and Keyhole welding modes**.
+* **The Result:** Optimized **Laser Ablation** for surface prep and achieved a **15% increase in production yield**.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[Image of laser welding process modes: conduction vs keyhole]
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 🛠 Core Competencies
 
-###### Header 6
+| **Laser & Joining** | **Digital & AI** | **Management & QA** |
+| :--- | :--- | :--- |
+| Fiber, CO2, & Disk Lasers | Python & ML Frameworks | PMP Project Management |
+| Conductive & Keyhole Modes | Digital Twin Development | Six Sigma Green Belt |
+| Laser Ablation & Safety | ABAQUS / ANSYS (FEM) | DFM / DFA / DFx |
+| Transmission Welding (Plastics) | JMP & Minitab (DOE) | Root Cause Analysis (RCCA) |
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+##
