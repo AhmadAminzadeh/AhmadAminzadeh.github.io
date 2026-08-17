@@ -7,7 +7,7 @@ layout: default
 ### Sr. Laser Welding & Smart Manufacturing Engineer 
 **Specializing in AI-Driven Quality Control & High-Volume Manufacturing**
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Google Scholar](https://scholar.google.com/citations?user=yourid) | [Email](mailto:ahmad.aminzadeh@uwaterloo.ca) | Waterloo, ON
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Google Scholar]([https://scholar.google.com/citations?user=yourid](https://scholar.google.com/citations?user=4CQJfyMAAAAJ&hl=en)) | [Email](mailto:ahmad.aminzadeh@uwaterloo.ca) | Waterloo, ON
 
 ---
 
